@@ -1,0 +1,3 @@
+# バックアップファイルはバージョン管理しない
+songs/**/History
+songs/**/*.autosave
