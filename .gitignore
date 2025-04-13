@@ -2,3 +2,4 @@
 songs/**/History
 songs/**/*.autosave
 songs/**/cache
+.DS_Store
